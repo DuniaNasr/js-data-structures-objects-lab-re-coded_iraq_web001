@@ -1,4 +1,5 @@
 // Write your solution in this file!
-let driver={
-  key= 'driver'
+
+const driver ={
+  key = 'driver'
 };
